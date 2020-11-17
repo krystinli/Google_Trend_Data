@@ -3,5 +3,5 @@ I want to spend sometime to find more interesting public dataset to user for ran
 
 ### Google_Trend_Data
 Simple analysis on google trend data. 
-- Notebook: [201115_house_price.ipynb]()
-- Dataset: [house_price.csv]()
+- Notebook: [[201115_house_price.ipynb]]()
+- Dataset: [[house_price.csv]]()
