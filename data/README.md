@@ -1,2 +1,2 @@
 ## Data_Sources
-- [x] [Open_Data_Toronto](https://open.toronto.ca/)
+- [x] [Open_Data_Toronto](https://open.toronto.ca/) The City of Toronto launched its first Open Data Portal in the fall of 2009 to meet growing demand for open data. Since then, the open data movement has gained increasing momentum within Toronto’s digital and civic spaces. As a result, open data currently serves as a politically charged topic of discussion within civic decision-making as policymakers and the civic community navigate open data policies and address socio-political and technical barriers.
