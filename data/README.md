@@ -3,3 +3,4 @@
   - [x] [Project_Galleries](https://open.toronto.ca/gallery/) Example projects created from these datasets 
   - [x] [Catalogue](https://open.toronto.ca/catalogue/) Dataset search engine 
     - [ ] [traffic-cameras](https://open.toronto.ca/dataset/traffic-cameras/)
+- [x] [Amsterdam Airbnb Data](https://towardsdatascience.com/an-end-to-end-data-science-project-that-will-boost-your-portfolio-c53cfe16f0e3)
